@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 1241456e-fd52-94ea-6239-be61d4c4cd15
 resourcetype: Document
 title: 'Urban Villages: Lessons for Village-Centric Urban Growth'
 uid: fdf95347-c45d-cf07-ce0c-636c638431bb
