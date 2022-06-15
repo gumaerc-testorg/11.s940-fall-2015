@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides descriptions of the course assignments and examples
+  of student work.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -26,6 +28,6 @@ Individual 15–20 pages paper due at the last week of the semester. The paper s
 
 ### Sample Student Work
 
-[The Case of Forest City and Singapore (PDF)]({{< baseurl >}}/resources/mit11_s940f15_finalpaper) (Courtesy of an MIT student. Used with permission.)
+{{% resource_link 76728e48-4af3-62f4-980a-a1090ff52337 "The Case of Forest City and Singapore (PDF)" %}} (Courtesy of an MIT student. Used with permission.)
 
-[Urban Villages: Lessons for Village-Centric Urban Growth (PDF)]({{< baseurl >}}/resources/mit11_s940f15_urbanvill) (Courtesy of Mayank Ojha. Used with permission.)
+{{% resource_link fdf95347-c45d-cf07-ce0c-636c638431bb "Urban Villages: Lessons for Village-Centric Urban Growth (PDF)" %}} (Courtesy of Mayank Ojha. Used with permission.)
