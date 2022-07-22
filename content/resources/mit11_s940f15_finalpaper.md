@@ -5,6 +5,7 @@ file: /courses/11-s940-development-planning-and-implementation-the-dialectic-of-
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: The Case of Forest City and Singapore
 uid: 76728e48-4af3-62f4-980a-a1090ff52337
 ---
 Example of student work for the final paper of the course.
-
